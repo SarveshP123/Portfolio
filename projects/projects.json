@@ -1,0 +1,62 @@
+[
+  {
+    "name": "GT Polling",
+    "desc": "Pollify makes creating and participating in polls easy and fun. Whether you’re gathering opinions, doing research, or just having fun, Pollify is here to help.",
+    "image": "polling",
+    "category": "mern-stack",
+    "links": {
+      "view": "https://instagramernstack.herokuapp.com/",
+      "code": "https://github.com/jigar-sable/instagram-mern"
+    }
+  },
+  {
+    "name": "Twitter Clone",
+    "desc": "TwitClone is your go-to platform for sharing thoughts, connecting with friends, and staying updated. Experience real-time conversations, trending topics.",
+    "image": "twitter",
+    "category": "mern",
+    "links": {
+      "view": "https://flipkartwebs.herokuapp.com/",
+      "code": "https://github.com/jigar-sable/flipkart-mern"
+    }
+  },
+  {
+    "name": "FaceBook Clone",
+    "desc": "Welcome to SocialHub, your all-in-one social networking platform. Stay connected with friends and family, share moments, and discover what matters to you.",
+    "image": "facebook",
+    "category": "mern",
+    "links": {
+      "view": "https://resumegenx.netlify.app/",
+      "code": "https://github.com/jigar-sable/resumegen"
+    }
+  },
+  {
+    "name": "NetFlix",
+    "desc": "NetFlix offers a premier streaming experience, delivering a wide array of movies, TV series, documentaries, and original content. ",
+    "image": "reactprojects",
+    "category": "mern",
+    "links": {
+      "view": "https://reactjsprojects.herokuapp.com/",
+      "code": "https://github.com/jigar-sable/React-Projects"
+    }
+  },
+  {
+    "name": "Calculator",
+    "desc": "CalcX is a straightforward calculator designed for everyday calculations. Whether you're crunching numbers for school, work, or daily tasks.",
+    "image": "image",
+    "category": "lamp",
+    "links": {
+      "view": "https://github.com/jigar-sable/Flipkart-Clone-PHP",
+      "code": "https://github.com/jigar-sable/Flipkart-Clone-PHP"
+    }
+  },
+  {
+    "name": "Emi Calculator",
+    "desc": "EMI Master simplifies your financial planning by calculating Equated Monthly Installments effortlessly. Whether you're planning a loan or evaluating repayment options.",
+    "image": "unnamed",
+    "category": "basicweb",
+    "links": {
+      "view": "https://jigar-sable.github.io/JavaScript-Projects",
+      "code": "https://github.com/jigar-sable/JavaScript-Projects"
+    }
+  }
+]
