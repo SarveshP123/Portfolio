@@ -5,37 +5,42 @@
     "image": "polling",
     "category": "mern-stack",
     "links": {
-      "view": "https://instagramernstack.herokuapp.com/",
       "code": "https://github.com/SarveshP123/GT-Polling"
     }
   },
   {
-    "name": "Twitter Clone",
+    "name": "Customer RelationShip Management",
     "desc": "TwitClone is your go-to platform for sharing thoughts, connecting with friends, and staying updated. Experience real-time conversations, trending topics.",
     "image": "twitter",
     "category": "mern",
     "links": {
-      "view": "https://flipkartwebs.herokuapp.com/",
       "code": "https://github.com/SarveshP123/GT-Polling"
     }
   },
   {
-    "name": "FaceBook Clone",
-    "desc": "Welcome to SocialHub, your all-in-one social networking platform. Stay connected with friends and family, share moments, and discover what matters to you.",
+    "name": "Weather App",
+    "desc": "It will fetch current weather and show your result",
     "image": "facebook",
     "category": "mern",
     "links": {
-      "view": "https://resumegenx.netlify.app/",
       "code": "https://github.com/SarveshP123/Facebook-clone"
     }
   },
   {
-    "name": "NetFlix",
-    "desc": "NetFlix offers a premier streaming experience, delivering a wide array of movies, TV series, documentaries, and original content. ",
+    "name": "To-do List App",
+    "desc": "Used to add dynamically updating bar chart  ReactJS application",
     "image": "reactprojects",
     "category": "mern",
     "links": {
-      "view": "https://reactjsprojects.herokuapp.com/",
+      "code": "https://github.com/SarveshP123/NetFlix-clone"
+    }
+  },
+  {
+    "name": "NetFlix-Clone",
+    "desc": "A Netflix Clone is a project that replicates Netflix's core features, including user authentication, browsing, streaming, and personalized recommendations. ",
+    "image": "reactprojects",
+    "category": "mern",
+    "links": {
       "code": "https://github.com/SarveshP123/NetFlix-clone"
     }
   },
@@ -45,7 +50,6 @@
     "image": "image",
     "category": "lamp",
     "links": {
-      "view": "https://github.com/jigar-sable/Flipkart-Clone-PHP",
       "code": "https://github.com/SarveshP123/Calculators-Age-Emi-Arithmetic"
     }
   },
@@ -55,7 +59,6 @@
     "image": "unnamed",
     "category": "basicweb",
     "links": {
-      "view": "https://jigar-sable.github.io/JavaScript-Projects",
       "code": "https://github.com/SarveshP123/Calculators-Age-Emi-Arithmetic"
     }
   }
