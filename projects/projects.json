@@ -52,14 +52,5 @@
     "links": {
       "code": "https://github.com/SarveshP123/Calculators-Age-Emi-Arithmetic"
     }
-  },
-  {
-    "name": "Emi Calculator",
-    "desc": "EMI Master simplifies your financial planning by calculating Equated Monthly Installments effortlessly. Whether you're planning a loan or evaluating repayment options.",
-    "image": "unnamed",
-    "category": "basicweb",
-    "links": {
-      "code": "https://github.com/SarveshP123/Calculators-Age-Emi-Arithmetic"
-    }
   }
 ]
