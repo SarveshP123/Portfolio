@@ -11,7 +11,7 @@
   {
     "name": "Customer RelationShip Management",
     "desc": "TwitClone is your go-to platform for sharing thoughts, connecting with friends, and staying updated. Experience real-time conversations, trending topics.",
-    "image": "twitter",
+    "image": "crm",
     "category": "mern",
     "links": {
       "code": "https://github.com/SarveshP123/GT-Polling"
@@ -20,7 +20,7 @@
   {
     "name": "Weather App",
     "desc": "It will fetch current weather and show your result",
-    "image": "facebook",
+    "image": "weather",
     "category": "mern",
     "links": {
       "code": "https://github.com/SarveshP123/Facebook-clone"
